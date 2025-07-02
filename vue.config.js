@@ -1,5 +1,7 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
   transpileDependencies: true,
-  publicPath: 'Product-web.git'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/E-commerce/'  // This should match your repository name
+    : '/'
 })
