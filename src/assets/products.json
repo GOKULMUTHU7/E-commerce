@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "title": "Casio G-Shock GM-700-1ADR",
+    "price": 85000,
+    "description": "Casio G-Shock GM-700-1ADR Analog-Digital Silver Dial Men (G1607)",
+    "category": "smartphones",
+    "image": "https://m.media-amazon.com/images/I/71MqZVpXIaL._SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 120,
+      "bought": "1k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Casio G-Shock GM-110-1ADR",
+    "price": 75000,
+    "description": "Casio G-Shock GM-110-1ADR Analog-Digital silver Dial Men (G1607) with Bluetooth",
+    "category": "headphones",
+    "image": "https://m.media-amazon.com/images/I/61H4BTgvc0L._SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 85,
+      "bought": "500 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Casio Watch",
+    "price": 100000,
+    "description": "Casio G-Shock GST-B400-1ADR Bluetooth Analog  Black Dial",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/618kPvPug0L._SX679_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 65,
+      "bought": "300 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Casio G-Shock GM-2110D-7ADR",
+    "price": 90000,
+    "description": "Casio G-Shock GM-2110D-7ADR Analog-Digital Silver Dial Men (G1612)",
+    "category": "televisions",
+    "image": "https://m.media-amazon.com/images/I/613raNc1oAL._SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 210,
+      "bought": "800 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Casio premium watch",
+    "price": 20000,
+    "description": "Casio G-Shock GST-S110D-1ADR",
+    "category": "shoes",
+    "image": "https://m.media-amazon.com/images/I/61SLI1somQL._SX679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 320,
+      "bought": "1.5k bought in the last 30 days"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Casio G-Shock GA-700-7ADR",
+    "price": 50000,
+    "description": "Casio G-Shock GA-700-7ADR Black",
+    "category": "smartwatches",
+    "image": "https://m.media-amazon.com/images/I/616L44Z5FIL._SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 180,
+      "bought": "600 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Casio G-Shock GST-S100G-1ADR",
+    "price": 75000,
+    "description": "Casio G-Shock GST-S100G-1ADR Analog-Digital Black Dial Men Watch",
+    "category": "laptops",
+    "image": "https://m.media-amazon.com/images/I/61yzYz72bdL._SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 90,
+      "bought": "400 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Casio G-Shock GA77X056777",
+    "price": 120000,
+    "description": "Casio G-Shock GM-110G-1A9DR Gold",
+    "category": "cameras",
+    "image": "https://m.media-amazon.com/images/I/71zqDrcg0pS._SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 150,
+      "bought": "700 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Casio G-Shock GBM-2100A-1A3DR",
+    "price": 2500,
+    "description": "Casio G-Shock GBM-2100A-1A3DR Bluetooth Analog-Digital Green Dial",
+    "category": "accessories",
+    "image": "https://m.media-amazon.com/images/I/61ohTXHcEmL._SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 200,
+      "bought": "900 bought in the last 30 days"
+    }
+  },
+  {
+    "id": 10,
+    "title": "Casio G-Shock GR-B300-1A4DR",
+    "price": 6250,
+    "description": "Casio G-Shock GR-B300-1A4DR Bluetooth Analog-Digital Grey Dial Men (G1568)",
+    "category": "smart-devices",
+    "image": "https://m.media-amazon.com/images/I/71FGqJ+-86L._SX679_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 340,
+      "bought": "1.2k bought in the last 30 days"
+    }
+  }
+]
