@@ -9,11 +9,13 @@
     "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
-    "bootstrap": "^5.3.6",
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "^5.3.7",
     "core-js": "^3.8.3",
     "mitt": "^3.0.1",
     "vue": "^3.2.13",
-    "vue-router": "^4.5.1"
+    "vue-router": "^4.5.1",
+    "vue-toastification": "^2.0.0-rc.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",

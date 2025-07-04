@@ -4,7 +4,7 @@
     <div class="hero-wrapper d-flex flex-column flex-lg-row align-items-center justify-content-center">
 
       <div class="text-section text-center text-lg-start p-4 p-lg-5">
-        <h1 class="headline mb-3">Welcome to <span class="highlight">DioDap</span></h1>
+        <h1 class="headline mb-3">Welcome to <span class="highlight">GokulZone</span></h1>
         <p class="subtext">Where great deals meet great quality – shop smarter with exclusive offers.</p>
         <router-link to="/product-list" class="btn btn-start mt-4">Shop Now</router-link>
       </div>

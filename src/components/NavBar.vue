@@ -2,7 +2,7 @@
   <nav class="glass-navbar">
     <div class="nav-container">
       <router-link class="logo" to="/">
-        <i class="fa-solid fa-seedling"></i> DioDap
+        <i class="fa-solid fa-seedling"></i> GokulZone
       </router-link>
 
       <button class="menu-toggle" @click="isCollapsed = !isCollapsed">

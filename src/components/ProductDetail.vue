@@ -39,13 +39,13 @@
             </div>
 
             <div class="premium-product-actions">
-              <button @click="addToCart" class="btn btn-primary premium-add-to-cart">
-                <i class="fas fa-cart-plus me-2"></i> Add to Cart
-              </button>
-              <button class="btn btn-outline-primary premium-buy-now">
-                <i class="fas fa-bolt me-2"></i> Buy Now
-              </button>
-            </div>
+        <button @click="addToCart" class="btn btn-primary premium-add-to-cart">
+          <i class="fas fa-cart-plus me-2"></i> Add to Cart
+        </button>
+        <button @click="buyNow" class="btn btn-outline-primary premium-buy-now">
+          <i class="fas fa-bolt me-2"></i> Buy Now
+        </button>
+      </div>
 
             <div class="premium-product-meta mt-4">
               <div class="premium-meta-item">
@@ -119,9 +119,18 @@ export default {
     addToCart() {
       cart.addItem(this.product)
       eventBus.emit('cart-updated', cart.getCount())
+    },
+    buyNow() {
+      // Add product to cart as single item (clear cart first)
+      cart.clearCart()
+      cart.addItem(this.product)
+      
+      // Navigate to payment page
+      this.$router.push('/payment')
     }
   }
 }
+
 </script>
 
 <style scoped>
